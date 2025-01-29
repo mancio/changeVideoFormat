@@ -52,6 +52,3 @@ This will convert all compatible videos in the specified folder to **MKV format*
 - This script **does not** overwrite original files; it creates new `.mkv` files.
 - GPU encoding (`h264_nvenc`) significantly speeds up conversion compared to CPU-based encoding.
 - If you experience issues, ensure your **NVIDIA GPU drivers and FFmpeg NVENC support** are correctly installed.
-
-## License
-This script is open-source. Feel free to modify and use it as needed!
